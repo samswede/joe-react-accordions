@@ -10,7 +10,7 @@ const cards = [
   {
     header: "Canada",
     image: image2,
-    text: `Image description here`,
+    text: `I changed this to see if it works`,
   },
   {
     header: "Bali",

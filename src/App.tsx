@@ -1,4 +1,4 @@
-import { Accordion } from "./components/accordion-2/Accordion";
+import { Accordion } from "./components/accordion-1/Accordion";
 
 function App() {
   return <Accordion />;
